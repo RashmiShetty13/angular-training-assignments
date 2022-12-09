@@ -1,0 +1,17 @@
+.container{
+    border-style :outset ;
+    padding: 10px;
+    margin:10px;
+    /* background-color: lightcyan; */
+    background-color: lightgrey;
+    /* height:100px;     */
+}
+
+.cellcontainer{
+    border-style :outset ;
+    padding: 1px;
+    margin:10px;
+    /* background-color: lightcyan; */
+    background-color: lightgrey;
+    /* height:100px;     */
+}

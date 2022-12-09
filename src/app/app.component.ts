@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Post } from './model/postmodel';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-training-assignments';
+  posts: Post[] = [];  
+
+  getNewlyCreatedPost(post:Post) {
+    this.posts.push(post);
+  }
 }

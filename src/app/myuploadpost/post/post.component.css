@@ -1,0 +1,6 @@
+.container{
+    border-style :outset; 
+    padding: 3px;
+    margin:10px;
+    background-color: lightgrey
+}

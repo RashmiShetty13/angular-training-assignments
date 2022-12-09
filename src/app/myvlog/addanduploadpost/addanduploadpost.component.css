@@ -1,0 +1,17 @@
+.container{
+    border-style :outset; 
+    padding: 10px;
+    margin:5px;
+    /* background-color: lightblue; */
+    background-color: lightgrey;
+}
+
+.alignright{
+    /* float: right; */
+    padding: 25px;
+    
+}
+
+
+
+
